@@ -1,0 +1,1 @@
+sript for shell permission
